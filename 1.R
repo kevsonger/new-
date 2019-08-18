@@ -1,2 +1,1 @@
-print("this was vreated in rstudio")
-print("now it lives on github")
+print("now it will push to github") 
